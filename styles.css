@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+}
+
+.logo {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.cat-photo {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.header-links {
+    display: flex;
+    gap: 16px;
+}
+
+.header,
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.section-one {
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+
+   
+    
+}
+
