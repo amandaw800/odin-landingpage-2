@@ -92,3 +92,67 @@ li {
     gap: 32px;
     padding: 32px;
 }
+
+.info-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.photo-txt {
+    width: 45%;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-three{
+    background-color: #E5E7EB;
+    padding: 128px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+blockquote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    max-width: 50%;
+}
+
+.section-four {
+    padding: 64px;
+    display: flex;
+    justify-content: center;
+}
+
+.action {
+    background-color: #3882F6;
+    padding: 32px 64px;
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+    flex-grow: 1;
+    color: #F9FAF8;
+}
+
+.sign-up-banner {
+    border-color: white;
+    border-radius: 8px;
+    padding: 8px 24px;
+    background-color: #3882F6;
+    color: white;
+
+}
+
+
